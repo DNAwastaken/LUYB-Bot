@@ -1,0 +1,5 @@
+# Auto-generated Mac files
+*.DS_Store
+
+# Project Files
+.env
